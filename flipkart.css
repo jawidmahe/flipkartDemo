@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+}
+.main-body{
+    position: fixed;
+    background: #2874f0;
+    width: 100%;
+    height: 54px;
+    display: flex;
+    
+    
+}
+.leftside{
+    height: 54px;
+    padding: 11px 7px 0px 179px
+}
+.logo img{
+    width: 75px;
+    cursor: pointer;
+}
+.letter-size{
+    font-family: Roboto,Arial,sans-serif;
+    letter-spacing: 0;
+    color: #f1f3f6;
+    font-size: 11px;
+    font-style: italic;
+    cursor: pointer;
+    margin-top: -4px;
+}
+.letter-size1{
+    font-family: Roboto,Arial,sans-serif;
+    letter-spacing: 0;
+    color: #ffe500;
+    font-weight: 500;
+ font-size: 11px;
+    font-style: italic;
+    cursor: pointer;
+}
+.plus img{
+    width: 10px;
+    float: left;
+    
+}
+.central {
+    width: 40%;
+    height: 54px;
+    float: left;
+    align-items: center;
+}
+
+.central-holder input{
+    font-size: 14px;
+    height: 34px;
+    width: 84%;
+    float: left;
+    font-family: Roboto,Arial,sans-serif;
+    letter-spacing: 0;
+    border: none;
+    outline-width: 0px;
+    display: flex;
+}
+.button button{
+    color: #fff;
+    background: rgb(255, 255, 255);
+    border: 0px;
+    cursor: pointer;
+    height: 36px;
+    margin: 0px 0px 0px 32px;
+}
+.rightside{
+    height: 54px;
+    float: right;
+    background: #2874f0;
+    display: flex;
+    
+}
+.space{
+    width: 122px;
+    height: 30px;
+    margin: 12px 40px;
+    background: rgb(255, 255, 255);
+    float: left;
+}
+.cont{
+    margin-top: 6px;
+    margin-left: 41px;
+    
+    
+}
+.loginflip{
+    font-family: Roboto,Arial,sans-serif; 
+    border: 0px;
+    color: #2874f0;
+}
+.central-holder{
+    border: 1px solid black;
+    background-color: #fff;
+}
+.space2{
+    margin: 20px 40px;
+    display: flex;
+    color: #fff;
+    cursor: pointer;
+
+    
+}
+.space2 p{
+    font-family: Roboto,Arial,sans-serif; 
+    font-size:16px;
+    font-weight: 600;
+    
+}
+.space3{
+    margin: 20px 30px;
+    display: flex;
+    color: #fff;
+    cursor: pointer;
+
+    
+}
+.space3 p{
+    font-family: Roboto,Arial,sans-serif; 
+    font-size:16px;
+    font-weight: 600;
+    
+}
+.body2{
+    /* width: 100%; */
+    height: 112px;
+    background: rgb(255,255,255);
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+}
+.icon-image img{
+    height: 64px;
+    width: 64px;
+}
+.body-holder{
+    display: flex;
+    justify-content: space-between;
+    width: -webkit-fill-available;
+    margin: 0px 75px;
+}
+.icon-name{
+    display: flex;
+    padding: auto;
+    cursor: pointer;
+}
+.icon-image img{
+    cursor: pointer;
+}
+.body3{
+    width: 1341px;
+    background-color: rgb(241,243,246);
+
+}
+.icon-image2 img{
+    width: 1341px;
+    margin: 10px
+px
+ 10px;
+
+}
+.body4{
+    display: flex;
+}
+.deal{
+    font-size: 22px;
+    line-height: 32px;
+    display: inline-block;
+    font-weight: 500;
+    font-family: Roboto,Arial,sans-serif;
+}
+.section1{
+    width: 1045px;
+    height: 32px;
+}
+.section2{
+    width:1045px;
+    height: 288px;
+    margin: 12px 5px;
+
+}
+.section3{
+    width:230px;
+    height: 353px;
+
+}
+
+.clock{
+    height: 24px;
+    aspect-ratio: auto 24 / 24;
+    width: 24px;
+    margin: 4px 15px;
+   
+}
+.view button{
+    color:rgb(242, 242, 243);
+    background: rgb(40,116,240);
+    width: 95px;
+    height: 38px;
+    border: 0ex;
+}
+.icon-image3 img{
+    width: 100px;
+     height:200;
+     margin: 50px 0px 9px 24px;
+}
+.icon-image4 img{
+    width: 117px;
+     height:200;
+     margin: 84px 0px 9px 19px;
+}.icon-image5 img{
+    width: 100px;
+     height:200;
+     margin: 53px 0px 9px 24px;
+}.icon-image6 img{
+    width: 100px;
+     height:200;
+     margin: 43px 0px 9px 24px;
+}.icon-image7 img{
+    width: 100px;
+     height:200;
+     margin: 92px 0px 9px 24px;
+}
+.icon-image8 img{
+    width: 100px;
+     height:200;
+     margin: 132px 0px 9px 24px;
+}
+.num1{
+    color: black;
+    font-size: 14px;
+    margin: 0px 0px 5px 13px;
+}
+.num2{
+    color: greenyellow;
+    font-size: 14px;
+    margin: 0px 0px 0px 0px;
+}
+.num3{
+    color:black;
+    font-size: 14px;
+    margin: 5px 0px 0px 19px;
+}
+.section3 img{
+    margin-left: 56px;
+}
+.newbody1{
+    width: 100%;
+    height: 300px;
+
+    margin: 26px 5px;
+}
+.rowimage img{
+    width: 208px;
+    height: 232px;
+
+}
+.rowname1{
+    color: black;
+}
+.rowname2{
+    color: greenyellow;
+}
+.rowimage10{
+    width: 208px;
+    height: 232px;
+}
